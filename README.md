@@ -27,3 +27,11 @@ make
 sudo ./minimal-example --led-no-hardware-pulse
 ```
 Change RGB to whichever light sequence to be tested
+
+
+
+https://github.com/jonxjonx/rpi-rgb-led-matrix/assets/142519124/43e879cc-6a9c-4ec6-9d2f-6fe983340bf8
+
+![photo_6109523754188127373_y](https://github.com/jonxjonx/rpi-rgb-led-matrix/assets/142519124/49064c2f-ac69-4f85-8d6d-b841241f2194)
+
+
