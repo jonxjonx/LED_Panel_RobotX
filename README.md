@@ -26,4 +26,4 @@ Navigate to [examples-api-use/](./examples-api-use) directory.
 make
 sudo ./minimal-example --led-no-hardware-pulse
 ```
-
+Change RGB to whichever light sequence to be tested
