@@ -5,15 +5,23 @@ Documentation of the Hardware and Software to produce the LED Panel for testing 
 
 Hardware
 --------
-4 x Adafruit Medium 16x32 RGB LED Matrix Panel https://www.mouser.sg/ProductDetail/485-420
+* 4 x Adafruit Medium 16x32 RGB LED Matrix Panel https://www.mouser.sg/ProductDetail/485-420
 
-1 x Adafruit 5V 10A Power Supply https://www.mouser.sg/ProductDetail/485-658
+* 1 x Adafruit 5V 10A Power Supply https://www.mouser.sg/ProductDetail/485-658
 
-1 x Adafruit Female DC Power Adapter https://www.mouser.sg/ProductDetail/485-368
+* 1 x Adafruit Female DC Power Adapter https://www.mouser.sg/ProductDetail/485-368
 
-14 x Female-Female Jumper Wires
+* 14 x Female-Female Jumper Wires
 
-1 x Raspberry Pi 4B 2GB
+* 1 x Raspberry Pi 4B 2GB
+
+Front and Back View of LED Panel 
+
+![image](https://github.com/user-attachments/assets/c963c021-2c68-4a52-9a01-77f1927f46d3)
+
+Zoomed in View of LED Panel
+
+![image](https://github.com/user-attachments/assets/174ef13a-6dd9-4bdc-92b3-a4c4e26b226f)
 
 Wire to the top LED Matrix Panel through 14 GPIO pins
 
